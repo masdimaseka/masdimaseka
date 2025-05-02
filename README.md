@@ -4,13 +4,13 @@
 </br>
 # 💻 My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,tailwind,react,vue,express,firebase,sklearn,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,express,firebase,sklearn,tensorflow)].
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masdimaseka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </br>
 
 # 🚀Get in Touch:
-![https://www.linkedin.com/in/dimas-eka]([![My Skills](https://skillicons.dev/icons?i=js,linkedin)](https://skillicons.dev))
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dimas-eka).[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/masdimaseka).
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
