@@ -2,15 +2,15 @@
 <p>👀 I’m interested in web development, mobile development, machine learning</p>
 </br>
 
-## 💻 My Skills:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,express,firebase,sklearn,tensorflow)
-</br>
-
 ## 📊 GitHub Stats:
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masdimaseka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-  ![](https://github-contributor-stats.vercel.app/api?username=masdimaseka&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masdimaseka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=masdimaseka&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </div>
+<br/>
+
+## 💻 My Skills:
+![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,express,firebase,sklearn,tensorflow)
 </br>
 
 ## 🚀Get in Touch:
