@@ -1,5 +1,7 @@
 <h1><b>Hi , I'm Dimas Eka </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhhbGJxZTMwejk0eHg4ampqdGwyOXo4aXgwNmJjdDk2ODAzZGxmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif" alt="Naruto" style="width: 100%; height: auto;" />
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhhbGJxZTMwejk0eHg4ampqdGwyOXo4aXgwNmJjdDk2ODAzZGxmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif" alt="Naruto" width="100%" />
+</div>
 <p>Welcome to My Github Profile ✨ I’m interested in web development, mobile development, machine learning 👀</p>
 </br>
 
