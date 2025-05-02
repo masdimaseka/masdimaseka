@@ -1,12 +1,10 @@
-<h1 align="center"><b>Hi , I'm Dimas Eka </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p>👀 I’m interested in web development, mobile development, machine learning</p>
+<h1><b>Hi , I'm Dimas Eka </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhhbGJxZTMwejk0eHg4ampqdGwyOXo4aXgwNmJjdDk2ODAzZGxmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif
+<p>Welcome to My Github Profile ✨ I’m interested in web development, mobile development, machine learning 👀</p>
 </br>
 
 ## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masdimaseka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=masdimaseka&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masdimaseka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 <br/>
 
 ## 💻 My Skills:
