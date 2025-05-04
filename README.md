@@ -7,7 +7,7 @@
 </br>
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masdimaseka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masdimaseka&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 
 <br/>
 
