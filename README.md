@@ -12,7 +12,7 @@
 <br/>
 
 ## 💻 My Skills:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,express,firebase,sklearn,tensorflow)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,express,firebase,php,laravel,sklearn,tensorflow)
 
 </br>
 
