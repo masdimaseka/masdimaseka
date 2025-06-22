@@ -4,11 +4,6 @@
 <h1><b>Hi , I'm Dimas Eka </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p>Welcome to My Github Profile ✨ I’m interested in web development, mobile development, machine learning 👀</p>
 
-</br>
-
-## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masdimaseka&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-
 <br/>
 
 ## 💻 My Skills:
