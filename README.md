@@ -7,6 +7,7 @@
 <br/>
 
 ## 💻 My Skills:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masdimaseka&hide=jupyter%20notebook&layout=compact)
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,express,firebase,php,laravel,sklearn,tensorflow)
 
 </br>
