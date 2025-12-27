@@ -4,15 +4,4 @@
 <h1><b>Hi , I'm Dimas Eka </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p>Welcome to My Github Profile ✨ I’m interested in web development, mobile development, machine learning 👀</p>
 
-<br/>
-
-## 💻 My Skills:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masdimaseka&hide=jupyter%20notebook&layout=compact)
-![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,express,firebase,php,laravel,sklearn,tensorflow)
-
-</br>
-
-## 🚀Get in Touch:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dimas-eka) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/masdimaseka)
-
 </br>
